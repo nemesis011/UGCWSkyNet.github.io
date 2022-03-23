@@ -1,13 +1,19 @@
-## **__Welcome to U.G.C.W.Skynet's World__**
+## **Welcome to U.G.C.W.Skynet's World**
 
 
 ### **The Bot** ![Skynet](https://cdn.discordapp.com/avatars/737792486205816903/44fad1f024c7be6871f68dac291d9f80.png)
 
-- U.G.C.W.SkyNet is a bot that was specifically created for the discord server [United Gay Cyber Wrestling](https://discord.gg/Y3VRjcw)
+- U.G.C.W.SkyNet is a bot that was specifically created for the discord server 
+[United Gay Cyber Wrestling](https://discord.gg/Y3VRjcw)
+
+
 
 ```diff
 - this site is under construction
 ```
+
+
+
 
 ### Support or Contact
 
